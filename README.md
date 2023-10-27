@@ -15,8 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Vue3-green?logo=vue&logoColor=white" alt="VUE3"/>
+<a href="#">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="50" height="50"/>
 </a>
 
 <h3><b>I also learn new technologies every day and update my knowledge about existing ones</b></h3>
