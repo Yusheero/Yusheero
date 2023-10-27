@@ -16,7 +16,7 @@
 </a>
 
 <a href="#">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="100" height="100"/>
 </a>
 
 <h3><b>I also learn new technologies every day and update my knowledge about existing ones</b></h3>
