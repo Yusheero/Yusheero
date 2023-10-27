@@ -4,7 +4,7 @@
 </div>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/HTML5-red?logo=html&logoColor=white" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 </a>
 
 <a href="#">
