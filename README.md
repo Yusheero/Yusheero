@@ -16,6 +16,9 @@
   <a href="#">  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/>
   </a>
+  <a href="#">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
+  </a>
 </div>
 
 <h3><b>I also learn new technologies every day and update my knowledge about existing ones</b></h3>
