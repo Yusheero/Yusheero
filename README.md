@@ -4,19 +4,19 @@
 </div>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/HTML5-red?logo=css&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/HTML5-red?logo=html&logoColor=white" alt="HTML"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/CSS=blue" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS-blue?logo=css&logoColor=white" alt="CSS"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/JavaScript=yellow" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=js&logoColor=white" alt="JS"/>
 </a>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Vue3=green" alt="Vue3"/>
+  <img src="https://img.shields.io/badge/Vue3-green?logo=vue&logoColor=white" alt="VUE3"/>
 </a>
 
 <h3><b>I also learn new technologies every day and update my knowledge about existing ones</b></h3>
