@@ -4,7 +4,7 @@
 </div>
 
 <a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+            <i class="devicon-html5-plain-wordmark"></i>
 </a>
 
 <a href="#">
