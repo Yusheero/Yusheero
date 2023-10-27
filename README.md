@@ -3,7 +3,7 @@
   <h3>Frontend Developer from Vladivostok</h3>
 </div>
 
-<a href="#">
+<a href="#" width="500px" height="500px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 </a>
 
