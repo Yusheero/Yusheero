@@ -2,6 +2,8 @@
   <h1>Hi there, my name is <strong>Konstantin Firsov,</strong><br> Frontend Developer from Vladivostok</h1>
 </div>
 
+### :woman_technologist: About Me :
+
 
 <div id="main" align="center" style="border">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
