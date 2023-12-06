@@ -1,10 +1,18 @@
 <div id="header" align="center">
-  <h1>Hi there, my name is <strong>Konstantin Firsov,</strong><br> Frontend Developer from Vladivostok</h1>
+  <h3>Hi there, my name is Konstantin Firsov,<br> Frontend Developer from Vladivostok</h3>
 </div>
 
----:woman_technologist: About Me :
+<hr />
+
+<div id="main" align="center">
+<h3>Vladivostok - a large city and port in the south of the Russian Far East.<br> Political, cultural, scientific, educational and economic center of the region.<br> Administrative center of Primorsky Krai.</h3>
+</div>
+
+<hr />
+
 
 <div id="main" align="center" style="border">
+  <h3>Samurai has no goal, only the path</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
