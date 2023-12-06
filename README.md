@@ -5,7 +5,7 @@
 
 
 <div id="main" align="center" style="border">
-  <h3>There is my Way of the Samurai</h3>
+  <h2>There is my Way of the Samurai</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
@@ -24,5 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>&nbsp;
+<h2><img src="https://komarev.com/ghpvc/?username=yusheero&style=flat-square&color=blue" alt=""/></h2>
 
-<img src="https://komarev.com/ghpvc/?username=yusheero&style=flat-square&color=blue" alt=""/>
