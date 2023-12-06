@@ -27,6 +27,10 @@
 
 
 ```css
+.main {
+  background-color: #432453;
+}
+
 #yusheero { 
   position: Vladivostok; 
   height: 181cm; 
