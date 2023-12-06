@@ -24,18 +24,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
-
-
-```css
-.main {
-  background-color: #432453;
-}
-
-#yusheero { 
-  position: Vladivostok; 
-  height: 181cm; 
-  display: boy; 
-  background: Purple; 
-  color: #ebc481
-}
-```
