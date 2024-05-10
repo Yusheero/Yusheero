@@ -1,14 +1,16 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusheero&title=Followers,Commits,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### About Me: 
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
-
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+### About Me (ENG): 
+I am a front-end developer with 1 to 2 years of experience. My main areas of growth at the moment are 3D rendering and backend development. I enjoy working with graphics and solving problems to improve the user experience when interacting with applications.
+### Обо мне (RU): 
+Я фронтенд-разработчик, с опытом работы от 1 до 2 лет. Мои основные направления роста в текущий момент - 3Д рендеринг и бэкенд разработка. Мне нравится работать с графикой и решать задачи на улучшение пользовательского опыта при взаимодействии с приложениями.
  
-### Social media: 📡   
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+### Social media (ENG): 📡   
+My telegram channel in which I discuss the topic of AI and the new technical revolution.
+### Социальные сети (RU): 📡  
+Мой телеграм канал в котором я дискутирую на тему ИИ и новой технической революции.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yusheero_dev)
 
 ## Competitions: 🥇
 
