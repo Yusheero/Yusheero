@@ -7,6 +7,9 @@
 <div id="header" align="center">
   <h3>Hi there, my name is Konstantin Firsov,<br> Frontend Developer from Vladivostok</h3>
 </div>
+
+---
+
 <div id="header" align="center">
   <h3>I am a front-end developer with 1 to 2 years of experience.<br> My main areas of growth at the moment are 3D rendering and backend development.<br> I enjoy working with graphics and solving problems to improve<br> the user experience when interacting with applications.</h3>
 </div>
@@ -52,6 +55,7 @@
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yusheero&show_icons=true&theme=vision-friendly-dark">
+  
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusheero&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
