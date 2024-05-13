@@ -23,7 +23,7 @@
 ---
 
 <div id="main" align="center"> 
-  <h2>SAMURAI HAS NO GOAL, ONLY THE PATH</h2>
+  <h3>SAMURAI HAS NO GOAL, ONLY THE PATH</h3>
 
   ---
 
